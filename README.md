@@ -1,1 +1,3 @@
 # Movies-ETL
+##  Objective
+##  Resources
