@@ -17,7 +17,9 @@ We used the starter code  ETL-function-test.ipynb, renamed ETL_function_test.ipy
 
 The wiki_movies Dataframes
 
-![It is an image}(
+![It is an image}(https://github.com/JJF1962/Movies-ETL/blob/main/Resources/The%20wiki_movies_df.PNG)
+
+![it is an image](
 
 * Deliverable 2: Extract and transform the Wilkipidia Data
 * Deliverable 3: Extract and transfor the Kaggle Data
