@@ -39,8 +39,8 @@ In the execution of this deliverable it was used Phyton, Pandas, the ETL process
 
 * Deliverable 4: Create the Movie Database
 It was copied  ETL_clean_kaggle_data.ipynb rename the file ETL_create_database.ipynb, I used Vs code to storage my config import db_password, the use of pgAdmin, was very challenging and took long time to run the long files also in my Jupyter Notebook. In the PgAdmin I deleted the tables and let the system reloaded and the data runned more complete,  PgAdmin run out of memory. 
-movies_df DataFrame and MovieLens rating CSV data to a SQL database.
+movies_df DataFrame and MovieLens rating CSV data to a SQL database, and in my case I'm adding the Jupyter Notebook capture as  wellto show the total ratings rows that not run correctly in my pgAdmin as mentioned before
 
-![this is an image](
+![this is an image](https://github.com/JJF1962/Movies-ETL/blob/main/Resources/movies_query.PNG)
 
 ##  Summary & Conclusion
