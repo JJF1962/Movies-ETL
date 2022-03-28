@@ -21,7 +21,7 @@ The wiki_movies Dataframes
 
 The Kaggle_metadata DataFrame
 
-![this is an image](
+![this is an image](https://github.com/JJF1962/Movies-ETL/blob/main/Resources/The%20kaggle_metadata.PNG)
 
 The ratings DataFrame
 
