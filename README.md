@@ -46,7 +46,7 @@ To obtain the number of rows, I used first the code: select count (8) movies in 
 
 However as mentioned I have memory troubles with pgAdmin, I restarted, I dlete the tables and re started etc and the code it doesnt run properly, therefore, please see the capture showing the rating table with 26,024,289 rows  
 
-![this is an image](
+![this is an image](https://github.com/JJF1962/Movies-ETL/blob/main/Resources/ratings_query.PNG)
 
 
 ##  Summary & Conclusion
