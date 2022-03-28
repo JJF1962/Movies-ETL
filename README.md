@@ -28,6 +28,12 @@ The ratings DataFrame
 ![this is an image](https://github.com/JJF1962/Movies-ETL/blob/main/Resources/The%20ratings%20Dataframe.PNG)
 
 * Deliverable 2: Extract and transform the Wilkipidia Data
+It was used Python, Pandas, the ETL process and code refactoring, extract and transform the Wilkipidia data to merge it the Kaggle metadata; while extracting the IMDb IDs using aregular expression string and dropping duplicates, use a try-except block to catch errors. As you can see in the figures below wiki_movies_df with the TV shows are filtered  and the cleaned Wikipedia data is converted to a Pandas
+
+![this is an image](
+
+![this is an image](
+
 * Deliverable 3: Extract and transfor the Kaggle Data
 * Deliverable 4: Create the Movie Database
 
