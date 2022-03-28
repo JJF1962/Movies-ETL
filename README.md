@@ -38,15 +38,16 @@ In the execution of this deliverable it was used Phyton, Pandas, the ETL process
 ![this is an image](https://github.com/JJF1962/Movies-ETL/blob/main/Resources/movies_with_ratings_df.PNG)
 
 * Deliverable 4: Create the Movie Database
-It was copied  ETL_clean_kaggle_data.ipynb rename the file ETL_create_database.ipynb, I used Vs code to storage my config import db_password, the use of pgAdmin, was very challenging and took long time to run the long files also in my Jupyter Notebook. In the PgAdmin I deleted the tables and let the system reloaded and the data runned more complete,  PgAdmin run out of memory. 
+It was copied  ETL_clean_kaggle_data.ipynb rename the file ETL_create_database.ipynb, I used Vs code to storage my config import db_password, the use of pgAdmin, was very challenging and took long time to run the long files also in my Jupyter Notebook. In the PgAdmin I had memory issues, I deleted the tables and let the system reloaded and the data runned more complete,  PgAdmin run out of memory. 
 Please see the movies_df DataFrame and MovieLens rating CSV data to a SQL database and Jupyter notebook the one relative to the ratings, 
-To obtain the number of rows, I used first the code: select count (8) movies in pgAdmin.
+To obtain the number of rows, I used first the code: select count (*) movies in pgAdmin, and I obtained the results 6,052 rows shown in the figure below .
 
 ![this is an image](https://github.com/JJF1962/Movies-ETL/blob/main/Resources/movies_query.PNG)
 
-However as mentioned I have memory troubles with pgAdmin, I restarted, I dlete the tables and re started etc and the code it doesnt run properly, therefore, please see the capture showing the rating table with 26,024,289 rows  
+However as mentioned I have memory troubles with pgAdmin, I restarted, I delete the tables and re started etc and the code not run properly, therefore, please see the capture showing the rating table with 26,024,289 rows from my Jupyter Notebook 
 
 ![this is an image](https://github.com/JJF1962/Movies-ETL/blob/main/Resources/ratings_query.PNG)
 
 
 ##  Summary & Conclusion
+This Challenge involved largest codes, that need to be runned together in one cell, and be very careful with the sintaxes and indentation to avoid errors at the moment to run the code, also I learned tha in Jupyter Notebook, the function in the tool bar "view -Toggle Line numbers", allow to set the lines to identify errors faster, also with this lomg codes I learned and used the Control "F" function in Canvas, it is very convenient to find the proper codes or information to used in the challenge resolution; I will start to apply it in assesment resolutions as well.
