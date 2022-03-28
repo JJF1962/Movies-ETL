@@ -3,7 +3,7 @@
 The objective of this module was to learn how to use the Extract; Transform; Load (ETL) process to create data pipelines, an essential skill for Data Analysis.
 as better detailed as follows:
 ##  Resources and main learning points
-As described in the section 8.0.2 it was learned the following during this module and challenge 8
+As described in the section 8.0.2 it was learned the following during this module 8.
 * Create an ETL pipeline from raw data to a SQL database.
 * Extract data from disparate sources using Python.
 * Clean and transform data using Pandas.
@@ -32,7 +32,7 @@ It was used Python, Pandas, the ETL process and code refactoring, extract and tr
 
 ![this is an image](https://github.com/JJF1962/Movies-ETL/blob/main/Resources/wiki_movies_df.PNG)
 
-* Deliverable 3: Extract and transfor the Kaggle Data
+* Deliverable 3: Extract and transfer the Kaggle Data
 In the execution of this deliverable it was used Phyton, Pandas, the ETL process, and code refactoring, extract and transform the Kaggle metadata and MovieLens rating data, then converteded data into separate Dataframes, aditionally it was merged the Kaggle metadata DataFrame with the Wikipedia movies DataFrame, to finalizes, it was merged  Th MoviLens Rating and DataFrame with the movies_df DataFrame to create the movies_with_ratings_df as shown below:
 
 ![this is an image](https://github.com/JJF1962/Movies-ETL/blob/main/Resources/movies_with_ratings_df.PNG)
