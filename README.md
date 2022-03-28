@@ -25,7 +25,7 @@ The Kaggle_metadata DataFrame
 
 The ratings DataFrame
 
-![this is an image](
+![this is an image](https://github.com/JJF1962/Movies-ETL/blob/main/Resources/The%20ratings%20Dataframe.PNG)
 
 * Deliverable 2: Extract and transform the Wilkipidia Data
 * Deliverable 3: Extract and transfor the Kaggle Data
